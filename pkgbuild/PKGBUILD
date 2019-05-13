@@ -3,7 +3,7 @@
 
 pkgname=plasma5-lnf-theme-blackbird-dark
 pkgver=1.0
-pkgrel=1
+pkgrel=2
 pkgdesc="A black look and feel theme for Blackbird OS"
 arch=('any')
 url='https://github.com/blackbird-os/plasma5-lnf-theme-blackbird-dark'
