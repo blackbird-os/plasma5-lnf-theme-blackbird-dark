@@ -3,12 +3,12 @@
 
 pkgname=plasma5-lnf-theme-blackbird-dark
 pkgver=1.0
-pkgrel=2
+pkgrel=5
 pkgdesc="A black look and feel theme for Blackbird OS"
 arch=('any')
 url='https://github.com/blackbird-os/plasma5-lnf-theme-blackbird-dark'
 license=('GPL')
-depends=('xcursor-whiteclassicia' 'plasma5-aurorae-theme-forman' 'plasma5-desktoptheme-breeze-alphablack' 'kvantum-qt5' 'obsidian-icon-theme' 'plasma5-applets-volumewin7mixer' 'yakuake')
+depends=('blackbird-wallpapers-default' 'xcursor-whiteclassicia' 'plasma5-aurorae-theme-forman' 'plasma5-desktoptheme-breeze-alphablack' 'kvantum-qt5' 'obsidian-icon-theme' 'plasma5-applets-volumewin7mixer' 'yakuake')
 package() {
   cd ../..
   cp -aR usr $pkgdir/
