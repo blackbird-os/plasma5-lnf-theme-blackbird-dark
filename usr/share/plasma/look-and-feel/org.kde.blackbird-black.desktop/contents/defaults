@@ -1,26 +1,26 @@
 [kdeglobals][General]
-ColorScheme=BlackbirdBlack
+ColorScheme=BreezeDark
 
 [kdeglobals][KDE]
-widgetStyle=kvantum
+widgetStyle=Breeze
 SingleClick=false
 
 [kdeglobals][Icons]
-Theme=Obsidian
+Theme=breeze-dark
 
 [kcminputrc][Mouse]
-cursorTheme=white-classicia++
+cursorTheme=RED-Modern
 
 [Desktop][org.kde.plasma.desktop]
 Containment=org.kde.plasma.folder
 
 [plasmarc][Theme]
-name=breeze-alphablack
+name=breeze-dark
 
 [kwinrc][org.kde.kdecoration2]
-library=org.kde.kwin.aurorae
-theme=__aurorae__svg__FormaN
+library=org.kde.breeze
+theme=Breeze
 
 [ksplashrc][KSplash]
-Engine=none
-Theme=None
+Engine=KSplashQML
+Theme=org.kde.blackbird-black.desktop

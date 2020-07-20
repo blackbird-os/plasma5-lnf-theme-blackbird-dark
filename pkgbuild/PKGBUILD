@@ -2,8 +2,8 @@
 # Maintainer: James Kittsmiller (AJSlye) <james@nulogicsystems.com>
 
 pkgname=plasma5-lnf-theme-blackbird-dark
-pkgver=1.0
-pkgrel=5
+pkgver=1.2
+pkgrel=1
 pkgdesc="A black look and feel theme for Blackbird OS"
 arch=('any')
 url='https://github.com/blackbird-os/plasma5-lnf-theme-blackbird-dark'
